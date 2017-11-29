@@ -8,4 +8,4 @@ npm run build
 npm run start
 ```
 
-After, open yout favorite browser and write the url *http://localhost:3000*
+After, open your favorite browser and write the url *http://localhost:3000*
